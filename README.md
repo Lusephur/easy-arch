@@ -18,7 +18,7 @@
 ## Alternative Methods (manual)
 
 ```bash 
-wget -O easy-arch.sh https://raw.githubusercontent.com/classy-giraffe/easy-arch/main/easy-arch.sh
+wget -O easy-arch.sh https://github.com/Lusephur/easy-arch/blob/main/easy-arch.sh
 chmod +x easy-arch.sh
 bash easy-arch.sh
 ```
